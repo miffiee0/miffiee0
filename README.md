@@ -4,7 +4,6 @@
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="<img width="798" height="592" alt="image" src="https://github.com/user-attachments/assets/3753380e-98bc-4a73-bc43-8e48695de16e" />
-" src="<img width="798" height="592" alt="image" src="https://github.com/user-attachments/assets/cc17df98-b354-4337-aaf4-b52ce833b9a2" />
 ">
 </picture>**
 <!--
