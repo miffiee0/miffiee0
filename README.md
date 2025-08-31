@@ -3,7 +3,8 @@
 **<picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="file:///C:/Users/AMVIN/Pictures/New%20folder/lick.png" src="YOUR-DEFAULT-IMAGE">
+ <img alt="test??" src="<img width="798" height="592" alt="image" src="https://github.com/user-attachments/assets/cc17df98-b354-4337-aaf4-b52ce833b9a2" />
+">
 </picture>**
 <!--
 **miffiee0/miffiee0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
