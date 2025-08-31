@@ -7,4 +7,4 @@
 " />
 ">
 </picture>**
-# - ✩˚.⋆☾⋆✧୭˚. btw, i freak out when, i see zro ponies, zro mention, gulp
+# - ✩˚.⋆☾⋆✧୭˚. oh how i freak out when, i see zro, zro mention, gulp
