@@ -6,4 +6,4 @@
 " />
 ">
 </picture>**
-# - ✩˚.⋆☾⋆✧୭˚. oh how i freak out when, i see zro, zro mention, gulp
+# - ✩˚.⋆☾⋆✧୭˚. heheh bye
