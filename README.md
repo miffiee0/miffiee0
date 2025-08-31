@@ -7,6 +7,5 @@
 " />
 ">
 </picture>**
-# - ✩˚.⋆☾⋆✧୭˚. well. idk how to use github i only decided i'd use it for my pt profile😭
-uuhhmmr. qwjrijkenmfklgjrgl ok bye.
+# - ✩˚.⋆☾⋆✧୭˚. btw. omg. i freak out when i see zro ponies. zro mention. gulp
 
