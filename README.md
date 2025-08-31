@@ -8,5 +8,3 @@
 ">
 </picture>**
 # - ✩˚.⋆☾⋆✧୭˚. btw, i freak out when, i see zro ponies, zro mention, gulp
-
-# - i start going crazy when i make mistakes. its so embarrassing. omg
