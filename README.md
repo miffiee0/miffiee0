@@ -7,5 +7,5 @@
 " />
 ">
 </picture>**
-# - ✩˚.⋆☾⋆✧୭˚. well. idk how to use github i only decided i'd use it for pt profiles😭
+# - ✩˚.⋆☾⋆✧୭˚. well. idk how to use github i only decided i'd use it for my pt profile😭
 
